@@ -1,6 +1,6 @@
  👋 Hi, I’m @muhammaaddsafii-dev
 
- 🧠 Currently learning React.js.
+ 🧠 Currently learning JavaScript.
  
  📩 Contact me at muhammaaddsafii@gmail.com .
 
