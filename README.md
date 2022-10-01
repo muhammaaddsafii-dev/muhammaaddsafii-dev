@@ -4,8 +4,8 @@
  
  📩 Contact me at muhammaaddsafii@gmail.com .
  
- [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
- [![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/)
+ [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/muhammaaddsafii-dev?tab=followers)
+ [![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/muhammaaddsafii-dev/Strapdown.js/graphs/contributors/)
  
  SKILLS :
 
