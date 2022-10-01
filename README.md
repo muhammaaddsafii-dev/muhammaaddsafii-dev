@@ -4,7 +4,8 @@
  
  📩 Contact me at muhammaaddsafii@gmail.com .
  
- 
+ [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+ [![GitHub contributors](https://badgen.net/github/contributors/Naereen/Strapdown.js)](https://GitHub.com/Naereen/Strapdown.js/graphs/contributors/)
  
  SKILLS :
 
@@ -12,6 +13,16 @@
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+STATS :
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muhammaaddsafii-dev&theme=blue-green)](https://github.com/muhammaaddsafii-dev/github-readme-stats)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammaaddsafii-dev&theme=blue-green)](https://github.com/muhammaaddsafii-dev/github-readme-streak-stats)
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaaddsafii-dev&theme=blue-green)](https://github.com/muhammaaddsafii-dev/github-readme-stats)
 <!---
 muhammaaddsafii-dev/muhammaaddsafii-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
