@@ -1,6 +1,6 @@
  👋 Hi, I’m @muhammaaddsafii-dev
 
- 🧠 Currently learning JavaScript and Go-Lang.
+ 🧠 Currently learning python.
  
  📩 Contact me at muhammaaddsafii@gmail.com .
  
